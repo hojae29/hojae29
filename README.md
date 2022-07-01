@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=spring&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <!--
 **hojae29/hojae29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
